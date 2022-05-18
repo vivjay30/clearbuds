@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Cmake build directories
+**/build/
+
+# Distribution / packaging
+*.json
+sample_videos*
+
+# Media
+*.mp4
+*.avi
+*.mp3
+*.mpeg
+*.jpg
+*.png
+*.tiff
+*.HEIC
+*.bmp
+
+# Misc
+*.DS_Store*
+
+# Models
+*.zip
+*.pt
+*.pth
+*.tar.*
+*.csv
+*.h5
+*.mlmodel
+
+.python-version
+
+# lonesnake 
+.lonesnake/
+
