@@ -23,18 +23,26 @@ sample_videos*
 *.tiff
 *.HEIC
 *.bmp
+*.wav
 
 # Misc
 *.DS_Store*
+*fuse_hidden*
 
 # Models
 *.zip
 *.pt
 *.pth
-*.tar.*
+*.tar*
 *.csv
 *.h5
 *.mlmodel
+*.pb
+*.tflite
+*.onnx
+*.index
+*variables.data*
+*.npy
 
 .python-version
 
