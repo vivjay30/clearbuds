@@ -1,6 +1,6 @@
 # Instructures for ACM Badging
 
-(Please download the source code and models here instead of cloning the repo: https://drive.google.com/file/d/1C1m7UjZRNVq84jzx49krJ5tsaaMwalRG/view?usp=sharing) 
+(Please download the source code and models here instead of cloning the repo): https://drive.google.com/file/d/1C1m7UjZRNVq84jzx49krJ5tsaaMwalRG/view?usp=sharing
 
 ## Overview
 Because we have many results and ablation studies, we've included instructions to replicate the most significant result. That is the numerical results we report for our method in table 1, as well as the real demo video we show.
