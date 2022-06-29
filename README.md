@@ -6,7 +6,7 @@
 Because we have many results and ablation studies, we've included instructions to replicate the most significant result. That is the numerical results we report for our method in table 1, as well as the real demo video we show.
 
 ## Environment
-Allthe results have been validated on a linux environment with a GPU. It shoudl work on a mac environment as well, but recently we have had signficant issues developing on the M1 chip. Older macbooks should be fine.
+All the results have been validated on a linux environment with a GPU. It should work on a mac environment as well, but recently we have had signficant issues developing on the M1 chip. Older macbooks should be fine.
 
 ## Setup
 First, make sure you are in the top level directory where this readme and 2 other subfolders are located. Add this folder to your pythonpath:
